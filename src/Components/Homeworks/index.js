@@ -29,6 +29,7 @@ function Homeworks() {
           <td>Homework1</td>
           <td>Git Practice. Provide link of your repo here </td>
           <td><a href="https://github.com/arushi1811/gitpracticehw1"> Link</a> </td>
+          
        
       </tr>
         <tr>
@@ -36,6 +37,14 @@ function Homeworks() {
           <td>Homework 2</td>
           <td>Javascript - Here is my codepen link with solutions</td>
           <td><a href="https://codepen.io/arushi1811/pen/xxqdege?editors=1111"> Link</a> </td>
+       
+      </tr>
+
+      <tr>
+          <th scope="row">3</th>
+          <td>Homework 3</td>
+          <td>Local and Session Storage</td>
+          <td><a href="https://codepen.io/arushi1811/pen/GRWvpdz"> Link</a> </td>
        
       </tr>
         
