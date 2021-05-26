@@ -47,6 +47,14 @@ function Homeworks() {
           <td><a href="https://codepen.io/arushi1811/pen/GRWvpdz"> Link</a> </td>
        
       </tr>
+
+      <tr>
+          <th scope="row">4</th>
+          <td>Homework 4</td>
+          <td>Wynisco HTML Website</td>
+          <td><a href="https://arushi1811.github.io/wyniscohw2/"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
