@@ -63,6 +63,14 @@ function Homeworks() {
           <td><a href="https://codepen.io/arushi1811/pen/GRWvejG"> Link</a> </td>
        
       </tr>
+
+      <tr>
+          <th scope="row">6</th>
+          <td>Homework 6</td>
+          <td>JS Sentence Function</td>
+          <td><a href="https://codepen.io/arushi1811/pen/gOmxJpL?editors=1111"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
