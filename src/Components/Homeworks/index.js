@@ -72,6 +72,15 @@ function Homeworks() {
        
       </tr>
         
+
+      <tr>
+          <th scope="row">6</th>
+          <td>Homework 7</td>
+          <td>Comcast</td>
+          <td><a href="https://codepen.io/arushi1811/pen/YzZEvgq?editors=1111"> Link</a> </td>
+       
+      </tr>
+        
       </tbody>
     </Table>
         </Container>
