@@ -80,6 +80,14 @@ function Homeworks() {
           <td><a href="https://codepen.io/arushi1811/pen/YzZEvgq?editors=1111"> Link</a> </td>
        
       </tr>
+
+      <tr>
+          <th scope="row">7</th>
+          <td>Homework 8</td>
+          <td>Theme Toggler</td>
+          <td><a href="https://codepen.io/arushi1811/pen/mdWpOLe"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
