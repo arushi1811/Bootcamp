@@ -26,7 +26,7 @@ function Homeworks() {
       <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>Homework1</td>
+          <td>Homework 1</td>
           <td>Git Practice. Provide link of your repo here </td>
           <td><a href="https://github.com/arushi1811/gitpracticehw1"> Link</a> </td>
           
@@ -42,7 +42,7 @@ function Homeworks() {
 
       <tr>
           <th scope="row">3</th>
-          <td>Homework 3</td>
+          <td>Homework 2.1</td>
           <td>Local and Session Storage</td>
           <td><a href="https://codepen.io/arushi1811/pen/GRWvpdz"> Link</a> </td>
        
@@ -50,7 +50,7 @@ function Homeworks() {
 
       <tr>
           <th scope="row">4</th>
-          <td>Homework 4</td>
+          <td>Homework 2.2</td>
           <td>Wynisco HTML Website</td>
           <td><a href="https://arushi1811.github.io/wyniscohw2/"> Link</a> </td>
        
@@ -58,7 +58,7 @@ function Homeworks() {
 
       <tr>
           <th scope="row">5</th>
-          <td>Homework 5</td>
+          <td>Homework 3.1</td>
           <td>CSS Selectors</td>
           <td><a href="https://codepen.io/arushi1811/pen/GRWvejG"> Link</a> </td>
        
@@ -66,7 +66,7 @@ function Homeworks() {
 
       <tr>
           <th scope="row">6</th>
-          <td>Homework 6</td>
+          <td>Homework 3.3</td>
           <td>JS Sentence Function</td>
           <td><a href="https://codepen.io/arushi1811/pen/gOmxJpL?editors=1111"> Link</a> </td>
        
@@ -75,7 +75,7 @@ function Homeworks() {
 
       <tr>
           <th scope="row">6</th>
-          <td>Homework 7</td>
+          <td>Homework 4.1</td>
           <td>Comcast</td>
           <td><a href="https://codepen.io/arushi1811/pen/YzZEvgq?editors=1111"> Link</a> </td>
        
@@ -83,9 +83,17 @@ function Homeworks() {
 
       <tr>
           <th scope="row">7</th>
-          <td>Homework 8</td>
+          <td>Homework 5.1</td>
           <td>Theme Toggler</td>
           <td><a href="https://codepen.io/arushi1811/pen/mdWpOLe"> Link</a> </td>
+       
+      </tr>
+
+      <tr>
+          <th scope="row">7</th>
+          <td>Homework 5.2</td>
+          <td>Frontier Challenge</td>
+          <td><a href="https://codepen.io/arushi1811/pen/WNpMMao"> Link</a> </td>
        
       </tr>
         
