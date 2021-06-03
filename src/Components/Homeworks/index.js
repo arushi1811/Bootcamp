@@ -90,14 +90,14 @@ function Homeworks() {
       </tr>
 
       <tr>
-          <th scope="row">7</th>
+          <th scope="row">8</th>
           <td>Homework 5.2</td>
           <td>Frontier Challenge</td>
           <td><a href="https://codepen.io/arushi1811/pen/WNpMMao"> Link</a> </td>
        
       </tr>
       <tr>
-          <th scope="row">8</th>
+          <th scope="row">9</th>
           <td>Homework 8.1</td>
           <td>ACME CO.</td>
           <td><a href="https://github.com/arushi1811/acme"> Link</a>
