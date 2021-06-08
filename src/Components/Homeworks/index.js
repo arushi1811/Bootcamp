@@ -100,8 +100,14 @@ function Homeworks() {
           <th scope="row">9</th>
           <td>Homework 8.1</td>
           <td>ACME CO.</td>
-          <td><a href="https://github.com/arushi1811/acme"> Link</a>
-          <a href="https://arushi1811.github.io/acme/"></a> </td>
+          <td><a href="https://github.com/arushi1811/acme"> Link</a> </td>
+       
+      </tr>
+      <tr>
+          <th scope="row">10</th>
+          <td>Homework 10.2</td>
+          <td>Lottery</td>
+          <td><a href="https://codepen.io/arushi1811/pen/zYZLdrL"> Link</a></td>
        
       </tr>
         
