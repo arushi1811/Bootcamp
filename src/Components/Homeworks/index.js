@@ -110,6 +110,20 @@ function Homeworks() {
           <td><a href="https://codepen.io/arushi1811/pen/zYZLdrL"> Link</a></td>
        
       </tr>
+      <tr>
+          <th scope="row">11</th>
+          <td>Homework 10.4</td>
+          <td>Lottery</td>
+          <td><a href="https://codepen.io/arushi1811/pen/WNpgrYZ"> Link</a></td>
+       
+      </tr>
+      <tr>
+          <th scope="row">12</th>
+          <td>Homework 12.1</td>
+          <td>Carousel</td>
+          <td><a href="https://codesandbox.io/s/inspiring-driscoll-vhonf?file=/src/styles.css"> Link</a></td>
+       
+      </tr>
         
       </tbody>
     </Table>
