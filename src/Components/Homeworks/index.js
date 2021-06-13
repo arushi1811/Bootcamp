@@ -124,6 +124,20 @@ function Homeworks() {
           <td><a href="https://codesandbox.io/s/inspiring-driscoll-vhonf?file=/src/styles.css"> Link</a></td>
        
       </tr>
+      <tr>
+          <th scope="row">13</th>
+          <td>Homework 12.1</td>
+          <td>Class Favs</td>
+          <td><a href="https://codesandbox.io/s/favorites-9pdf2?file=/src/App.jsx"> Link</a></td>
+       
+      </tr>
+      <tr>
+          <th scope="row">14</th>
+          <td>Homework 13.1</td>
+          <td>Grid Email Template</td>
+          <td><a href="https://github.com/arushi1811/grid-featured-component"> Link</a></td>
+       
+      </tr>
         
       </tbody>
     </Table>
